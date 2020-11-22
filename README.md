@@ -20,7 +20,7 @@ https://etherscan.io/tx/0x263ce40a44ed4db1b2d69705f21c300a44eddf0b9ec4cea1faab00
 
 I can deposit it to conflux, I can get the crosschain asset. Now it has to be converted to native moonLP.
 
-unfortunately calling mPairContract.exchangeLp():
+unfortunately despite correct tokenallowance, calling mPairContract.exchangeLp():
 
 
 Error: SafeERC20: low-level call failed
