@@ -163,8 +163,9 @@ async function main() {
     console.log("migratorpair can spend ".concat(String( parseFloat(allowance) ), " from myAddr"))
     
     
-     //test transfer to mPairContract
+     //check allowance works, test transfer to mPairContract
     success = await crossChainMPLContract.transfer(mpairAddr, balance).call({'from':myAddr })
+    console.log(success)
     if(success){
         console.log("successfully called crossChainMPLContract.transfer(mpairAddr, balance)")
         
