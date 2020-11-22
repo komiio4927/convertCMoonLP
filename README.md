@@ -8,6 +8,7 @@ Situation:
 Instead of migrating from the eth Moonstar, I used withdrawal, now I have moonLP on ethereum. 
 Depositing it back to the eth contract doesn't work
 relevant tx's:
+
 withdraw()to eth staking contract
 https://etherscan.io/tx/0x3e4a5dd6a1ac5c95d99e1c657ff900ea2dbcf18851d5e963d383cb1b261566cf
 
