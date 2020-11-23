@@ -1,5 +1,6 @@
 # convertCMoonLP
 Trying to recover 15ETH worth of KP3R/ETH lp tokens. I can pay for your time.
+With a small amount I tried calling exchangeLp, sending with erc777 to migrationPair, burning with erc777, depositing into moonstar id 19 and 18 and calls
 
 
 Situation:
