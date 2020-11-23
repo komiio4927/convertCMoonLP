@@ -19,7 +19,7 @@ deposit() to eth staking contract (->migrate, not deposit error)
 https://etherscan.io/tx/0x263ce40a44ed4db1b2d69705f21c300a44eddf0b9ec4cea1faab0007d356a912 
 
 
-Instead I can deposit it to conflux, I can get the crosschain asset. Now it has to be converted to native moonLP.
+Instead I can deposit it to conflux, I can get the crosschain asset 0x85dc011bff5c05937fecc9d2437861bcef90ca95. Now it has to be converted to native moonLP 0x8620339889f0955ad4d14f7bf566af900822ff37.
 
 unfortunately despite plenty of tokenallowance, calling mPairContract.exchangeLp():
 
